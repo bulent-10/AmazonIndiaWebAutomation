@@ -9,6 +9,8 @@ Used "io.github.bonigarcia" dependency as automated driver management and Docker
 
 I used POM Desing Pattern in order to keep my code organized and clean. ('Pages Package')
 
+All located web elements staored in "Televisions" class, under pages packages. 
+
 I created Tests Package for my test cases. There is 'TelevisionTests' class for my codes. 
 
 I have another separate package for my UTILITIES where I would store all my drivers, page files or utilities that I could possibly run. ('utilities package')
